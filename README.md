@@ -21,3 +21,6 @@ Criador de Imagens Bing:
 | Ação  | Prompt |
 | ------------- | ------------- |
 | Título  | puella magi madoka magica, pixel art |
+
+## Execução
+Foi utilizado o ChatGPT para criar o título e o conteúdo, o Bing para criar imagens para capa e conclusão e o Google Slides para construir o Ebook.
